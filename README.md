@@ -66,12 +66,7 @@ Com perfil proativo e colaborativo, busco sempre otimizar processos e entregar s
 ### 📊 Estatísticas do GitHub:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoppn&show_icons=true&hide_title=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoppn&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardoppn)
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ricardoppn)
  ---
 
 ### 📫 Entre em contato comigo:
