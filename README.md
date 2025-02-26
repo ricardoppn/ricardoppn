@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 
 <h1 align="center"> </h1>
 
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D03AQGhqwnLQMcRWQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628104742456?e=1746057600&v=beta&t=o9I-Log3zqYpewxatqSlA_uU_6Si0vRuBwhewuQRVXM" width="200" />
-</p>
-
 <h2 align="center">Ricardo Porto</h2>
 <h3 align="center">Desenvolvedor Sênior Full Stack 🚀</h3>
 
@@ -66,6 +62,17 @@ Com perfil proativo e colaborativo, busco sempre otimizar processos e entregar s
 
 
 ---
+
+### 📊 Estatísticas do GitHub:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ricardoppn&show_icons=true&hide_title=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardoppn&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ricardoppn)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ricardoppn)
+ ---
 
 ### 📫 Entre em contato comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-porto-4b706b35)
