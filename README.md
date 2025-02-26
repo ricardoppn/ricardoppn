@@ -1,4 +1,4 @@
-## Hi there 👋
+## SEJA MUITO BEM-VINDO(A)! 👋
 
 <!--
 **ricardoppn/ricardoppn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="center"> SEJA MUITO BEM-VINDO(A)!</h1>
+<h1 align="center"> </h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/v2/C4D03AQGhqwnLQMcRWQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1628104742456?e=1746057600&v=beta&t=o9I-Log3zqYpewxatqSlA_uU_6Si0vRuBwhewuQRVXM" width="200" />
@@ -28,10 +28,9 @@ Here are some ideas to get you started:
 ---
 
 ### Sobre mim 👋  
-🎓 Formado em Análise e Desenvolvimento de Sistemas.
-💻 Engenheiro de Software Sênior.
 
-Formado em Análise e Desenvolvimento de Sistemas, sou Engenheiro de Software Sênior com mais de 8 anos de experiência no desenvolvimento de software, especializado em tecnologias modernas e boas práticas de codificação. Tenho experiência sólida com bancos de dados e integrações complexas, incluindo soluções para sistemas corporativos, métodos de pagamento e emissão de documentos fiscais.
+🎓Formado em Análise e Desenvolvimento de Sistemas.
+💻Engenheiro de Software Sênior com mais de 8 anos de experiência no desenvolvimento de software, especializado em tecnologias modernas e boas práticas de codificação. Tenho experiência sólida com bancos de dados e integrações complexas, incluindo soluções para sistemas corporativos, métodos de pagamento e emissão de documentos fiscais.
 
 Atuo com foco em arquiteturas escaláveis, utilizando práticas avançadas de design e desenvolvimento, como Domain-Driven Design (DDD) e Clean Code, sempre alinhado com metodologias ágeis. Além disso, possuo experiência em DevOps, trabalhando com ferramentas de containerização e infraestrutura em nuvem, garantindo a alta disponibilidade e performance das soluções.
 
