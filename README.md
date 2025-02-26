@@ -29,7 +29,13 @@ Here are some ideas to get you started:
 
 ### Sobre mim 👋  
 🎓 Formado em Análise e Desenvolvimento de Sistemas.
-💻 Engenheiro de Software Sênior com mais de 8 anos de experiência em desenvolvimento de software.
+💻 Engenheiro de Software Sênior.
+
+Formado em Análise e Desenvolvimento de Sistemas, sou Engenheiro de Software Sênior com mais de 8 anos de experiência no desenvolvimento de software, especializado em tecnologias modernas e boas práticas de codificação. Tenho experiência sólida com bancos de dados e integrações complexas, incluindo soluções para sistemas corporativos, métodos de pagamento e emissão de documentos fiscais.
+
+Atuo com foco em arquiteturas escaláveis, utilizando práticas avançadas de design e desenvolvimento, como Domain-Driven Design (DDD) e Clean Code, sempre alinhado com metodologias ágeis. Além disso, possuo experiência em DevOps, trabalhando com ferramentas de containerização e infraestrutura em nuvem, garantindo a alta disponibilidade e performance das soluções.
+
+Com perfil proativo e colaborativo, busco sempre otimizar processos e entregar soluções de alta qualidade, garantindo eficiência e atendendo de forma precisa às necessidades dos clientes.
 
 
 ---
@@ -56,7 +62,7 @@ Here are some ideas to get you started:
 
 ### 📚 Tecnologias que estou aprendendo:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
