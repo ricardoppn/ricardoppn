@@ -70,4 +70,4 @@ Com perfil proativo e colaborativo, busco sempre otimizar processos e entregar s
  ---
 
 ### 📫 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ricardo-porto-4b706b35)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-porto-4b706b35)
